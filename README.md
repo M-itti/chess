@@ -1,1 +1,1 @@
-Minimal cli-based project written in python
+Minimal cli-based chess game written in python
